@@ -1,5 +1,5 @@
 # MovieRent - About the application
-Movie Rent App is made in C++ using QT GUI. This app has been made during the OOP course, learning its concepts. I have expanded my skills regarding the memory management (memory leaks, dangling pointers, smart pointers etc.) and using concepts such as iterators, templates etc. and creating them from scratch (e.g. similar vector from STL).
+Movie Rent App is made in C++ using QT GUI. This app has been made during the OOP course, learning its concepts. I have expanded my skills regarding the memory management (memory leaks, dangling pointers, smart pointers etc.) and using concepts such as iterators, templates etc. and creating them from scratch (e.g. similar vector from STL - _VectorDinamicTemplate_).
 I also had the opportunity to learn how to use the signals and create a basic GUI using QT.
 ### The functionalities
 
