@@ -1,0 +1,21 @@
+[2024-05-05 23:33:37] [info] Start Program:
+Path:"C:\UBB\semestrul2\SDA\lab10-11qtgui\x64\Debug\lab10-11qtgui.exe"
+Arguments:
+Working directory: "C:\UBB\semestrul2\SDA\lab10-11qtgui\lab10-11qtgui\"
+Modules: Selected: C:\UBB\semestrul2\SDA\lab10-11qtgui\x64\Debug\lab10-11qtgui.exe Excluded: 
+Sources: Selected: C:\UBB\semestrul2\SDA\lab10-11qtgui\lab10-11qtgui Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\andre\AppData\Local\Temp\mnlvk2bk.3b4 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-05-05 23:33:37] [info] Module: C:\UBB\semestrul2\SDA\lab10-11qtgui\x64\Debug\lab10-11qtgui.exe is selected because it matches selected pattern: C:\UBB\semestrul2\SDA\lab10-11qtgui\x64\Debug\lab10-11qtgui.exe
+[2024-05-05 23:33:40] [info] ----------------------------------------------------
+[2024-05-05 23:33:40] [info] Coverage binary generated in file: C:\Users\andre\AppData\Local\Temp\mnlvk2bk.3b4
+[2024-05-05 23:33:40] [info] ----------------------------------------------------
