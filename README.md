@@ -3,8 +3,14 @@ Movie Rent App is made in C++ using QT GUI. This app has been made during the OO
 I also had the opportunity to learn how to use the signals and create a basic GUI using QT.
 
 [The functionalities](#the-functionalities)
+
 [The GUI](#the-gui)
+
 [Generate a report](#generate-a-report)
+
+[Filter movies](#filter-movies)
+
+[The basket](#the-basket)
 
 ### The functionalities
 
